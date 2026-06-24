@@ -1,6 +1,6 @@
 # Agent Skills
 
-Agent skills are reusable instructions for AI coding agents.
+Agent skills are reusable instructions for AI coding agents like OpenCode, Claude Code, OpenAI Codex, and [others](https://www.skills.sh/agent).
 
 - They can be simple Markdown files.
 - They can also include code, scripts, images, templates, and other assets.
@@ -11,11 +11,11 @@ Agent skills are reusable instructions for AI coding agents.
 - Users can invoke skills explicitly.
 - Models can also invoke skills implicitly when the task matches.
 
-## Directories
+## Tools
 
-- [agentskills.io](https://agentskills.io) - Public directory for discovering agent skills.
-- [skills.sh](https://skills.sh) - CLI and registry for installing and managing agent skills.
-- [vercel-labs/skills](https://github.com/vercel-labs/skills) - Open source collection of agent skills from Vercel Labs.
+- [agentskills.io](https://agentskills.io) - home of the official Agent Skills [spec](https://agentskills.io/specification).
+- [skills.sh](https://skills.sh) - registry for finding skills
+- [`npx skills`](https://github.com/vercel-labs/skills) - CLI for installing skills on [any agent](https://www.skills.sh/agent)
 
 ## Skills I Maintain
 
