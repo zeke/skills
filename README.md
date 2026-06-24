@@ -32,7 +32,6 @@ This repo is a collection of skills I use, skills I maintain, and the tools I us
 ## Skills I use
 
 - [vercel-labs/find-skills](https://github.com/vercel-labs/skills/blob/main/skills/find-skills/SKILL.md) - find other skills.
-- [replicate/skills](https://github.com/replicate/skills) - Find, compare, and run generative AI models on Replicate.
 - [typefully/agent-skills](https://github.com/typefully/agent-skills) - Draft and schedule social media posts with Typefully.
 - [railly/tinte](https://github.com/railly/tinte) - Generate screenshots of code snippets and terminal commands via API.
 - [mattpocock/teach](https://github.com/mattpocock/skills/tree/main/skills/productivity/teach) - Learn anything interactively, like how to speak German or solve a rubik's cube.
