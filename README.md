@@ -25,6 +25,7 @@ This repo is a collection of skills I use, skills I maintain, and the tools I us
 - [replicate/skills](https://github.com/replicate/skills) - Official Replicate skills for building AI-powered apps with Replicate.
 - [zeke/faster-chrome-devtools-skill](https://github.com/zeke/faster-chrome-devtools-skill) - A faster Chrome DevTools workflow for coding agents.
 - [zeke/faster-gh-cli-skill](https://github.com/zeke/faster-gh-cli-skill) - Reliable GitHub CLI usage patterns for coding agents.
+- [zeke/minimalist-design-skill](https://github.com/zeke/minimalist-design-skill) - Minimalist monospace design system for AI-generated interfaces.
 - [zeke/preview-deployments-skill](https://github.com/zeke/preview-deployments-skill) - Add Cloudflare Workers preview deployments to GitHub apps.
 - [zeke/swiss-design-skill](https://github.com/zeke/swiss-design-skill) - Swiss International Style design guidance for AI agents.
 - [zeke/helicopter-skill](https://github.com/zeke/helicopter-skill) - Novelty: A helicopter flying guidance for AI agents, inspired by The Matrix.
