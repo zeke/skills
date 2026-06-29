@@ -37,3 +37,4 @@ This repo is a collection of skills I use, skills I maintain, and the tools I us
 - [railly/tinte](https://github.com/railly/tinte) - Generate screenshots of code snippets and terminal commands via API.
 - [mattpocock/teach](https://github.com/mattpocock/skills/tree/main/skills/productivity/teach) - Learn anything interactively, like how to speak German or solve a rubik's cube.
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and CLI for Google NotebookLM. Create notebooks, add sources, generate podcasts, quizzes, videos, and more.
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - Research what people actually say about any topic in the last 30 days, across Reddit, X, YouTube, TikTok, Hacker News, Polymarket, and more.
