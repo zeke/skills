@@ -30,6 +30,7 @@ This repo is a collection of skills I use, skills I maintain, and the tools I us
 - [zeke/replicate-local-workflow-skill](https://github.com/zeke/replicate-local-workflow-skill) - Run Replicate models and organize their outputs locally.
 - [zeke/swiss-design-skill](https://github.com/zeke/swiss-design-skill) - Swiss International Style design guidance for AI agents.
 - [zeke/helicopter-skill](https://github.com/zeke/helicopter-skill) - Novelty: A helicopter flying guidance for AI agents, inspired by The Matrix.
+- [zeke/transcription-skill](https://github.com/zeke/transcription-skill) - Transcribe YouTube videos and audio/video files to text with Replicate's gemini-3.5-flash.
 
 ## Skills I use
 
