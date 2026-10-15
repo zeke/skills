@@ -27,6 +27,7 @@ This repo is a collection of skills I use, skills I maintain, and the tools I us
 - [zeke/extract-frames-skill](https://github.com/zeke/extract-frames-skill) - Extract video frames at a fixed fps with ffmpeg, named by timestamp.
 - [zeke/faster-gh-cli-skill](https://github.com/zeke/faster-gh-cli-skill) - Reliable GitHub CLI usage patterns for coding agents.
 - [zeke/minimalist-design-skill](https://github.com/zeke/minimalist-design-skill) - Minimalist monospace design system for AI-generated interfaces.
+- [zeke/paper-app-skill](https://github.com/zeke/paper-app-skill) - Work in the Paper design app through its MCP server.
 - [zeke/preview-deployments-skill](https://github.com/zeke/preview-deployments-skill) - Add Cloudflare Workers preview deployments to GitHub apps.
 - [zeke/replicate-local-workflow-skill](https://github.com/zeke/replicate-local-workflow-skill) - Run Replicate models and organize their outputs locally.
 - [zeke/swiss-design-skill](https://github.com/zeke/swiss-design-skill) - Swiss International Style design guidance for AI agents.
